@@ -354,6 +354,9 @@ AirflowDemo/
 ├── Sensors.md                        # Waiting for conditions
 ├── Hooks.md                          # External integrations
 ├── Variables-and-Connections.md      # Configuration management
+├── examples/                         # Example DAG files
+│   ├── sampleDag1.py                # Basic DAG example
+│   └── CreateDynamicDags.py         # Dynamic DAG creation example
 └── images/                           # Documentation images
     ├── BranchPythonOperator.png
     ├── dynamic_parallel.png
